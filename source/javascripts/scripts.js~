@@ -1,0 +1,6 @@
+$(document).ready(function() {
+  $("#controls1").hide();
+  $("#body1").hover(function() {
+    $("#controls1").slideToggle();
+  });
+});

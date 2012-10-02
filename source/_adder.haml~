@@ -1,0 +1,3 @@
+.annotator-controls
+  %button.annotator-write
+  %button.annotator-fave
